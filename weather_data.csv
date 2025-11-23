@@ -1,0 +1,5 @@
+Timestamp,City,Country,Temperature (°C),Feels Like (°C),Humidity (%),Condition,Wind Speed (m/s)
+2025-11-20 20:30:18,Guntur,IN,22.07,22.26,74,Clear sky,2.14
+2025-11-20 20:42:40,Delhi,IN,18.05,17.56,63,Haze,0
+2025-11-21 18:21:36,Hyderabad,IN,26.23,26.23,61,Haze,3.09
+2025-11-21 18:22:00,Pune,IN,25.61,25.77,59,Clear sky,2.18
